@@ -1,0 +1,9 @@
+title: 我的技术博客
+email: your_email@example.com
+description: 用于记录学习和工作中的技术文章
+author: 你的名字
+baseurl: "" # 设置为空字符串来表示是顶级页面
+url: "https://username.github.io" # 替换成你的 GitHub 页面 URL
+
+# 设置默认主题
+theme: jekyll-theme-minimal
